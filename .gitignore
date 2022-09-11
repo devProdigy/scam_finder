@@ -1,5 +1,4 @@
 # project files
-.env
 text_data/input/*
 text_data/output/*
 logs

@@ -9,7 +9,7 @@ import settings
 __all__ = ["setup_logging"]
 
 LOGS_TO_SUPPRESS = tuple()
-ROOT = Path(__file__).parent.parent  # TODO test this
+ROOT = Path(__file__).parent.parent
 TRACEBACK_ANALYSE_LIMIT = 20
 
 
